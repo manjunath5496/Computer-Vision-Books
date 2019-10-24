@@ -17,6 +17,9 @@
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Vision-Books/blob/master/cv(10).pdf" style="text-decoration:none;">Robust Computer Vision: Theory and Applications</a></b></li>
 
- 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Vision-Books/blob/master/cv(11).pdf" style="text-decoration:none;">Numerical Algorithms: Methods for Computer Vision, Machine Learning, and Graphics</a></b></li>                 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Vision-Books/blob/master/cv(12).pdf" style="text-decoration:none;">Algorithms for Image Processing and Computer Vision</a></b></li>   
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Vision-Books/blob/master/cv(13).pdf" style="text-decoration:none;">Computer Vision: Models, Learning, and Inference </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Vision-Books/blob/master/cv(14).pdf" style="text-decoration:none;">Foundations of Computer Vision </a></b></li>
 </ul>
